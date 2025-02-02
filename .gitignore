@@ -2,3 +2,11 @@
 /.php-cs-fixer.cache
 /composer.lock
 /vendor/
+/coverage/
+/coverage.xml
+/.phpunit.cache/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

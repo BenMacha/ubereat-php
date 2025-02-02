@@ -1,11 +1,26 @@
 # UberEats PHP SDK
 
-[![Latest Stable Version](https://poser.pugx.org/ubereats/php-sdk/v/stable)](https://packagist.org/packages/ubereats/php-sdk)
-[![Total Downloads](https://poser.pugx.org/ubereats/php-sdk/downloads)](https://packagist.org/packages/ubereats/php-sdk)
-[![License](https://poser.pugx.org/ubereats/php-sdk/license)](https://packagist.org/packages/ubereats/php-sdk)
-[![PHP Version Require](https://poser.pugx.org/ubereats/php-sdk/require/php)](https://packagist.org/packages/ubereats/php-sdk)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ubereats/php-sdk.svg?style=flat-square)](https://packagist.org/packages/ubereats/php-sdk)
+[![Total Downloads](https://img.shields.io/packagist/dt/ubereats/php-sdk.svg?style=flat-square)](https://packagist.org/packages/ubereats/php-sdk)
+[![License](https://img.shields.io/github/license/ubereats/php-sdk.svg?style=flat-square)](LICENSE)
+[![PHP Version](https://img.shields.io/packagist/php-v/ubereats/php-sdk.svg?style=flat-square)](composer.json)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/ubereats/php-sdk/ci.yml?branch=main&style=flat-square)](https://github.com/ubereats/php-sdk/actions)
+[![Code Coverage](https://img.shields.io/codecov/c/github/ubereats/php-sdk?style=flat-square)](https://codecov.io/gh/ubereats/php-sdk)
+[![PHPStan](https://img.shields.io/badge/PHPStan-max-brightgreen.svg?style=flat-square)](https://github.com/phpstan/phpstan)
+[![PHP CS Fixer](https://img.shields.io/badge/PHP%20CS%20Fixer-PSR--12-brightgreen.svg?style=flat-square)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
 
 A modern PHP SDK for the UberEats API, supporting PHP 7.4 and above.
+
+## Features
+
+- 🚀 Modern PHP 7.4+ with strict typing
+- 🔒 Type-safe request/response objects
+- 🧪 Comprehensive test coverage
+- 📝 Detailed documentation
+- 🔄 Webhook support
+- 🛠️ PSR-3 logging support
+- 🎯 PSR-12 coding standards
+- 🔍 Static analysis with PHPStan level max
 
 ## Requirements
 
@@ -103,23 +118,35 @@ try {
 }
 ```
 
-## Testing
+## Development
+
+### Testing
 
 ```bash
 composer test
 ```
 
-## Static Analysis
+### Static Analysis
 
 ```bash
 composer phpstan
 ```
 
-## Code Style
+### Code Style
 
 ```bash
 composer cs-fix
 ```
+
+### Code Coverage
+
+```bash
+composer test-coverage
+```
+
+## Security
+
+If you discover any security related issues, please email security@example.com instead of using the issue tracker.
 
 ## Contributing
 
@@ -128,6 +155,15 @@ composer cs-fix
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+## Changelog
+
+Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed recently.
+
+## Credits
+
+- [BEN MECHA Ali](https://github.com/benmacha)
+- [All Contributors](../../contributors)
 
 ## License
 

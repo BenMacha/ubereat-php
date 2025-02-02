@@ -37,7 +37,8 @@
     "scripts": {
         "test": "phpunit",
         "phpstan": "phpstan analyse src tests --level=max",
-        "cs-fix": "PHP_CS_FIXER_IGNORE_ENV=1  php-cs-fixer fix",
+        "cs-fix": "PHP_CS_FIXER_IGNORE_ENV=1 php-cs-fixer fix",
+        "test-coverage": "phpunit --coverage-html coverage",
         "check": [
             "@test",
             "@phpstan",
