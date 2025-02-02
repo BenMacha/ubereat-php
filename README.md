@@ -3,6 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ubereats/php-sdk.svg?style=flat-square)](https://packagist.org/packages/ubereats/php-sdk)
 [![Total Downloads](https://img.shields.io/packagist/dt/ubereats/php-sdk.svg?style=flat-square)](https://packagist.org/packages/ubereats/php-sdk)
 [![License](https://img.shields.io/github/license/ubereats/php-sdk.svg?style=flat-square)](LICENSE)
+[![CI](https://github.com/BenMacha/ubereat-php/actions/workflows/ci.yml/badge.svg)](https://github.com/BenMacha/ubereat-php/actions/workflows/ci.yml)
 [![PHP Version](https://img.shields.io/packagist/php-v/ubereats/php-sdk.svg?style=flat-square)](composer.json)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/ubereats/php-sdk/ci.yml?branch=main&style=flat-square)](https://github.com/ubereats/php-sdk/actions)
 [![Code Coverage](https://img.shields.io/codecov/c/github/ubereats/php-sdk?style=flat-square)](https://codecov.io/gh/ubereats/php-sdk)
