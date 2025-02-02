@@ -1,0 +1,10 @@
+parameters:
+    level: max
+    paths:
+        - src
+        - tests
+    checkMissingIterableValueType: false
+    ignoreErrors:
+        - '#Constant .* is unused#'
+        - '#Cannot access offset .* on mixed#'
+        - '#Cannot cast mixed to .*#'
