@@ -1,14 +1,14 @@
 # UberEats PHP SDK
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ubereats/php-sdk.svg?style=flat-square)](https://packagist.org/packages/ubereats/php-sdk)
-[![Total Downloads](https://img.shields.io/packagist/dt/ubereats/php-sdk.svg?style=flat-square)](https://packagist.org/packages/ubereats/php-sdk)
-[![License](https://img.shields.io/github/license/ubereats/php-sdk.svg?style=flat-square)](LICENSE)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ubereats/php-sdk.svg)](https://packagist.org/packages/ubereats/php-sdk)
+[![Total Downloads](https://img.shields.io/packagist/dt/ubereats/php-sdk.svg)](https://packagist.org/packages/ubereats/php-sdk)
+[![License](https://img.shields.io/github/license/BenMacha/ubereat-php.svg)](LICENSE)
 [![CI](https://github.com/BenMacha/ubereat-php/actions/workflows/ci.yml/badge.svg)](https://github.com/BenMacha/ubereat-php/actions/workflows/ci.yml)
-[![PHP Version](https://img.shields.io/packagist/php-v/ubereats/php-sdk.svg?style=flat-square)](composer.json)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ubereats/php-sdk/ci.yml?branch=main&style=flat-square)](https://github.com/ubereats/php-sdk/actions)
-[![Code Coverage](https://img.shields.io/codecov/c/github/ubereats/php-sdk?style=flat-square)](https://codecov.io/gh/ubereats/php-sdk)
-[![PHPStan](https://img.shields.io/badge/PHPStan-max-brightgreen.svg?style=flat-square)](https://github.com/phpstan/phpstan)
-[![PHP CS Fixer](https://img.shields.io/badge/PHP%20CS%20Fixer-PSR--12-brightgreen.svg?style=flat-square)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+[![PHP Version](https://img.shields.io/packagist/php-v/ubereats/php-sdk.svg)](composer.json)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/BenMacha/ubereat-php/ci.yml?branch=main)](https://github.com/BenMacha/ubereat-php/actions)
+[![Code Coverage](https://img.shields.io/codecov/c/github/BenMacha/ubereat-php)](https://codecov.io/gh/BenMacha/ubereat-php)
+[![PHPStan](https://img.shields.io/badge/PHPStan-max-brightgreen.svg)](https://github.com/phpstan/phpstan)
+[![PHP CS Fixer](https://img.shields.io/badge/PHP%20CS%20Fixer-PSR--12-brightgreen.svg)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
 
 A modern PHP SDK for the UberEats API, supporting PHP 7.4 and above.
 
