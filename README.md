@@ -147,7 +147,7 @@ composer test-coverage
 
 ## Security
 
-If you discover any security related issues, please email security@example.com instead of using the issue tracker.
+If you discover any security related issues, please email contact@benmacha.tn instead of using the issue tracker.
 
 ## Contributing
 
