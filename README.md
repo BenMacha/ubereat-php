@@ -169,3 +169,6 @@ Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed
 ## License
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+![Support Palestine](https://img.shields.io/badge/🇵🇸%20Support-Palestine-008000?style=flat&logo=data:image/svg+xml;base64,...)
+
