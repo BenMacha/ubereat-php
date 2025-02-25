@@ -9,7 +9,7 @@
 [![Code Coverage](https://img.shields.io/codecov/c/github/BenMacha/ubereat-php)](https://codecov.io/gh/BenMacha/ubereat-php)
 [![PHPStan](https://img.shields.io/badge/PHPStan-max-brightgreen.svg)](https://github.com/phpstan/phpstan)
 [![PHP CS Fixer](https://img.shields.io/badge/PHP%20CS%20Fixer-PSR--12-brightgreen.svg)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
-
+![Support Palestine](https://img.shields.io/badge/🇵🇸%20Support-Palestine-008000?style=flat&logo=data:image/svg+xml;base64,...)
 A modern PHP SDK for the UberEats API, supporting PHP 7.4 and above.
 
 ## Features
@@ -170,5 +170,4 @@ Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-![Support Palestine](https://img.shields.io/badge/🇵🇸%20Support-Palestine-008000?style=flat&logo=data:image/svg+xml;base64,...)
 
